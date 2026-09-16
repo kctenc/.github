@@ -31,10 +31,10 @@ GitHub를 이용하여 **개발 요청, 수정·보완 요청 및 작업 진행 
 
 | 요청 내용 | Repository | 예시 | 바로가기 |
 |---|---|---|---|
-| 🌐 **대시보드 / 웹 화면** | Frontend | 그래프, 버튼, 화면 디자인, 검색, 필터, UI | [➕ Issue 등록](https://github.com/kctenc/meerkat-dashboard-fe/issues/new) |
-| ⚙️ **서버 / 데이터** | Backend | 데이터 처리, API, DB, 서버 기능, 알람 로직 | [➕ Issue 등록](https://github.com/kctenc/meerkat-dashboard-be/issues/new) |
-| 📡 **센서 / 게이트웨이 통신** | TCP / Socket Server | 센서 데이터 수신, TCP 통신, 데이터 파싱 | [➕ Issue 등록](https://github.com/kctenc/meerkat-server-new-refactoring/issues/new) |
-| 📱 **모바일 앱** | Application | 앱 화면, Push 알림, 로그인, 모바일 기능 | [➕ Issue 등록](https://github.com/kctenc/meerkat_app/issues/new) |
+| 🌐 **대시보드 / 웹 화면** | Frontend | 그래프, 버튼, 화면 디자인, 검색, 필터, UI | [➕ Issue 등록](https://github.com/kctenc/meerkat-dashboard-fe/issues/new/choose) |
+| ⚙️ **서버 / 데이터** | Backend | 데이터 처리, API, DB, 서버 기능, 알람 로직 | [➕ Issue 등록](https://github.com/kctenc/meerkat-dashboard-be/issues/new/choose) |
+| 📡 **센서 / 게이트웨이 통신** | TCP / Socket Server | 센서 데이터 수신, TCP 통신, 데이터 파싱 | [➕ Issue 등록](https://github.com/kctenc/meerkat-server-new-refactoring/issues/new/choose) |
+| 📱 **모바일 앱** | Application | 앱 화면, Push 알림, 로그인, 모바일 기능 | [➕ Issue 등록](https://github.com/kctenc/meerkat_app/issues/new/choose) |
 
 > 💡 **어디에 등록해야 할지 모르겠다면?**  
 > 요청사항과 가장 관련 있어 보이는 Repository에 등록해주세요. 담당자가 확인 후 필요한 경우 적절한 작업으로 분류합니다.
