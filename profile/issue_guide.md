@@ -14,10 +14,10 @@ Issue는 **새로운 개발 작업을 요청할 때** 사용합니다.
 
 | 요청 내용 | Repository | 바로가기 |
 |---|---|---|
-| 🌐 대시보드 / 웹 화면 | Frontend | [➕ Issue 등록](https://github.com/kctenc/meerkat-dashboard-fe/issues/new) |
-| ⚙️ 서버 / 데이터 | Backend | [➕ Issue 등록](https://github.com/kctenc/meerkat-dashboard-be/issues/new) |
-| 📡 센서 / 게이트웨이 통신 | TCP / Socket Server | [➕ Issue 등록](https://github.com/kctenc/meerkat-server-new-refactoring/issues/new) |
-| 📱 모바일 앱 | Application | [➕ Issue 등록](https://github.com/kctenc/meerkat_app/issues/new) |
+| 🌐 대시보드 / 웹 화면 | Frontend | [➕ Issue 등록](https://github.com/kctenc/meerkat-dashboard-fe/issues/new/choose) |
+| ⚙️ 서버 / 데이터 | Backend | [➕ Issue 등록](https://github.com/kctenc/meerkat-dashboard-be/issues/new/choose) |
+| 📡 센서 / 게이트웨이 통신 | TCP / Socket Server | [➕ Issue 등록](https://github.com/kctenc/meerkat-server-new-refactoring/issues/new/choose) |
+| 📱 모바일 앱 | Application | [➕ Issue 등록](https://github.com/kctenc/meerkat_app/issues/new/choose) |
 
 어디에 등록해야 할지 정확히 모르겠다면 요청사항과 **가장 관련 있어 보이는 Repository**에 등록해주세요.
 
